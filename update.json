@@ -1,7 +1,7 @@
 {
   "*": {
-    "version": "0.2.0",
-    "download_url": "https://raw.githubusercontent.com/Ehaic/smoked-glass-releases/main/releases/smoked-glass-0.2.0.zip",
-    "sha256": "44a0dd6af05a69795b703cc06bcd9a9c22a64ee2a03f8cb3975e0a1ab735ce85"
+    "version": "0.2.1",
+    "download_url": "https://raw.githubusercontent.com/Ehaic/smoked-glass-releases/main/releases/smoked-glass-0.2.1.zip",
+    "sha256": "dcbce3ef2f342d4a022604729f37d70d586ebf217d08dc54a57487402f3fd872"
   }
 }
